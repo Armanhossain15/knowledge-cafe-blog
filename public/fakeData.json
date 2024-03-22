@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "img": "https://i.ibb.co/HNVCSDv/Rectangle-1-2.png",
+        "author_img": "https://i.ibb.co/Kw6hzK7/profile.png",
+        "author_name": "John Doe",
+        "publish_date": "Mar 20",
+        "reading_time": 10,
+        "title": "Exploring the Universe: A Journey Through Space",
+        "keywords": [
+            "space",
+            "exploration",
+            "universe",
+            "science"
+        ]
+    },
+    {
+        "id": 2,
+        "img": " https://i.ibb.co/nL9L23c/Rectangle-1-1.png",
+        "author_img": "https://i.ibb.co/Kw6hzK7/profile.png",
+        "author_name": "Jane Smith",
+        "publish_date": "Feb 15",
+        "reading_time": 8,
+        "title": "The Art of Cooking: A Culinary Adventure",
+        "keywords": [
+            "cooking",
+            "food",
+            "recipes",
+            "cuisine"
+        ]
+    },
+    {
+        "id": 3,
+        "img": "https://i.ibb.co/BVNBck0/Rectangle-1.png",
+        "author_img": "https://i.ibb.co/Kw6hzK7/profile.png",
+        "author_name": "Alice Johnson",
+        "publish_date": "Jan 10",
+        "reading_time": 15,
+        "title": "The Power of Positive Thinking",
+        "keywords": [
+            "positive thinking",
+            "mindfulness",
+            "self-help",
+            "mental health"
+        ]
+    }
+]
